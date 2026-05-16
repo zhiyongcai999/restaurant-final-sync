@@ -1,0 +1,7 @@
+{
+  "name": "餐馆云端老板系统Pro",
+  "short_name": "餐馆Pro",
+  "start_url": "index.html",
+  "display": "standalone",
+  "theme_color": "#111827"
+}

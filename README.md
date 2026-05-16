@@ -1,2 +1,1 @@
-# restaurant-final-sync
-restaurant-final-sync
+# restaurant-cloud-pro
