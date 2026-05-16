@@ -1,5 +1,5 @@
 
-const SUPABASE_URL = 'https://uqijorymsxivkdhmnyf.supabase.co';
+const SUPABASE_URL = 'https://ucijorymsxivkdhmnyf.supabase.co';
 const SUPABASE_KEY = 'sb_publishable_LSK_ODw36B9f8LN27-kUNw_LKYfytfm';
 const TABLE = 'restaurant_data';
 const ROW_ID = 'main';
